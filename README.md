@@ -1,1 +1,1 @@
-# gym-exercicies
+# Gym Guide Exercicies
